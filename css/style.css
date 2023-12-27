@@ -115,7 +115,7 @@ html {
       background: var(--indigo); 
     }
   a{
-      color: var(--gray100);
+      color: var(--blue200);
       text-decoration:none;
   }
   
@@ -555,11 +555,10 @@ html {
   
   footer{
       background-color: rgb(14, 13, 13) !important;
-      color: var(--red100);
+      color: var(--white);
       text-align: center;
       align-items: center;
       width: 100%;
-      margin-top: 1em;
       height: fit-content;
       padding: 1em;
       padding-top: 3em;
